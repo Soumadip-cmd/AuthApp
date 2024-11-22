@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282731735766",
+    "project_id": "authapp-ece95",
+    "storage_bucket": "authapp-ece95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282731735766:android:fc72819a6e85c8be1ab777",
+        "android_client_info": {
+          "package_name": "com.soumadip.AuthApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282731735766-0rbsgaf18k5egq0mk9kd36cn3an03hc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soumadip.AuthApp",
+            "certificate_hash": "a6f373059c7fb21c6edae87b4639e33056c4361e"
+          }
+        },
+        {
+          "client_id": "282731735766-7rntkcstd4a2l8o80q9c9riqi0ootskm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soumadip.AuthApp",
+            "certificate_hash": "74dcd84e175b5818b6f61ec82d12f0e70e678c46"
+          }
+        },
+        {
+          "client_id": "282731735766-iu9nrsl9j5brj7b9tvl3p28i1cgt5800.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAerTWI9XhwyZarq5zXfPeDja0eAIMeaJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282731735766-iu9nrsl9j5brj7b9tvl3p28i1cgt5800.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
